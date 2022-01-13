@@ -1,0 +1,3 @@
+C:/Users/EGYPT/CLionProjects/Dusk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EGYPT/CLionProjects/Dusk/cmake-build-debug/CMakeFiles/Dusk.dir
+C:/Users/EGYPT/CLionProjects/Dusk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
